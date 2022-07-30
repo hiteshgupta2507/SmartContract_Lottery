@@ -13,7 +13,7 @@ from web3 import Web3
 
 # ganache-fundme was added as a new blockchain under Ethereum network
 FORKED_LOCAL_ENVIRONMENT = ["mainnet-fork", "mainnet-fork-dev"]
-LOCAL_BLOCKCHAIN_DEVELOPMENT = ["developmemt", "ganache-fundme"]
+LOCAL_BLOCKCHAIN_DEVELOPMENT = ["development", "ganache-fundme"]
 
 DECIMALS = 18
 STARTING_PRICE = 2000 * 10**18  # in Wei
